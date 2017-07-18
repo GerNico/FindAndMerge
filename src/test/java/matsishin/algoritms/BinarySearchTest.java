@@ -1,3 +1,5 @@
+package matsishin.algoritms;
+
 import org.junit.Test;
 
 import static matsishin.algoritms.BinarySearch.newBinarySearch;
